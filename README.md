@@ -7,3 +7,8 @@ https://www.uwfarmsa.com/
     2. copy entire content in profile.html into the code section
     3. change image, name, position, linkedin link to the person you want
     4. save
+2. graph.html contain a html for create a graph that are ablt to consume a csv file and create a data accrondingly
+    1. create a embed HTML code section
+    2. copy entire content in graphhtml into the code section
+    3. upload csv
+    4. save

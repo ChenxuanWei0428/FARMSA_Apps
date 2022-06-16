@@ -3,7 +3,7 @@ google.charts.setOnLoadCallback(drawCurveTypes);
 var csv = require("jquery-csv");
 function drawCurveTypes() {
     var data = new google.visualization.DataTable();
-    var csv_data = $.csv.toObjects("graph_data.csv")
+    //var csv_data = $.csv.toObjects("graph_data.csv")
     //alert(csv_data)
     data.addColumn('number', 'X');
     data.addColumn('number', 'Dogs');

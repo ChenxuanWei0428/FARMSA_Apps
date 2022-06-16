@@ -9,7 +9,7 @@ https://www.uwfarmsa.com/
         1. upload image to wix, get it's url
         2. edit the rest of the part based on image
     4. save
-2. graph.html contain a html for create a graph that are ablt to consume a csv file and create a data accrondingly
+2. graph.html contain a html for create a graph that are ablt to consume a csv file and create a data accrondingly (not done yet)
     1. create a embed HTML code section
     2. copy entire content in graphhtml into the code section
     3. upload csv
